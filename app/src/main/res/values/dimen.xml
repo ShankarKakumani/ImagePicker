@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_frame_margin">24dp</dimen>
+    <dimen name="top_frame_margin">34dp</dimen>
+    <dimen name="toolbar_icon_spacing">40dp</dimen>
+    <dimen name="cam_icon_size">28dp</dimen>
+    <dimen name="info_items_spacing">10dp</dimen>
+    <dimen name="item_margin">48dp</dimen>
+    <dimen name="explainer_btn_margin">55dp</dimen>
+    <dimen name="check_mark_icon_size">19dp</dimen>
+    <dimen name="container_top_margin">10dp</dimen>
+    <dimen name="menu_items_padding">15dp</dimen>
+    <dimen name="title_top_margin">20dp</dimen>
+    <dimen name="cell_height">40dp</dimen>
+    <dimen name="table_view_cell_height">55dp</dimen>
+    <dimen name="table_view_row_header_width">28dp</dimen>
+    <dimen name="table_view_default_text_size">11sp</dimen>
+    <dimen name="menu_item_spacing">30dp</dimen>
+    <dimen name="menu_item_container_margin">28dp</dimen>
+    <dimen name="crop_slider_height">115dp</dimen>
+    <dimen name="menu_option_item_padding">50dp</dimen>
+    <dimen name="input_container_top_margin">120dp</dimen>
+    <dimen name="btn_click_ripple">45dp</dimen>
+    <dimen name="row_item_padding">75dp</dimen>
+    <dimen name="top_margin">15dp</dimen>
+    <dimen name="item_frame_margin">5dp</dimen>
+</resources>

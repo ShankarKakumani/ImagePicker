@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.shankar.library.SquareRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/ivPicture"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+
+    <RelativeLayout
+        android:id="@+id/rl_tick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:visibility="gone"
+        android:layout_margin="8dp"
+        >
+
+        <ImageView
+            android:id="@+id/row_gallery_select"
+            android:layout_width="@dimen/default_frame_margin"
+            android:layout_height="@dimen/default_frame_margin"
+            android:src="@drawable/drawable_image_selector"
+            />
+
+        <TextView
+            android:id="@+id/tvCheck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:textColor="@color/picture_color_white"
+            android:textSize="12sp" />
+
+
+    </RelativeLayout>
+
+
+    <View
+        android:id="@+id/btnCheck"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_alignParentEnd="true"
+        android:background="@color/picture_color_transparent" />
+
+    <View
+        android:id="@+id/iv_mask"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#aaffffff"
+        android:visibility="gone"
+        />
+</com.shankar.library.SquareRelativeLayout>

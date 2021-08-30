@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#577BDF</color>
+    <color name="colorPrimaryDark">#577BDF</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="cornflowerBlue">#577BDF</color>
+    <color name="grey_300">#e0e0e0</color>
+    <color name="cyan">#05FFCF</color>
+    <color name="light_grey">#0A000000</color>
+    <color name="brownish_grey">#666666</color>
+    <color name="warm_grey">#D4D4D4</color>
+    <color name="fade_grey">#D4D4D4</color>
+    <color name="disabled_grey">#DADADA</color>
+    <color name="white_transparent">#00FFFFFF</color>
+    <color name="purple_brown">#231F20</color>
+    <color name="tab_in_active">#A8A8A8</color>
+    <color name="yellow_orange">#FFB500</color>
+    <color name="teal_blue">#007DB2</color>
+    <color name="beige">#f8dbdb</color>
+    <color name="success_bg">#E8F9D4</color>
+    <color name="white_dark">#d7d7d7</color>
+    <color name="darkish_pink">#e25b84</color>
+    <color name="vermillion">#FF0000</color>
+    <color name="success_border">#63A816</color>
+    <color name="cherry">#D90034</color>
+    <color name="white_two">#E4E4E4</color>
+    <color name="medium_purple">#97448F</color>
+
+    <color name="selected_background_color">#5101D7</color>
+    <color name="unselected_background_color">#1c324a</color>
+    <color name="shadow_background_color">#28415f</color>
+    <color name="unselected_header">#1f3650</color>
+    <color name="unselected_text_color">#537095</color>
+    <color name="selected_text_color">#ffffff</color>
+    <color name="separator_color">#273e5b</color>
+    <color name="popup_menu_item_text_color">#88a5c9</color>
+    <color name="female_icon_color">#e9515f</color>
+    <color name="male_icon_color">#f28944</color>
+    <color name="dotted_grey">#7e7e7e</color>
+    <color name="drag_background">#ededed</color>
+    <color name="ruler_short">#979797</color>
+    <color name="grey95">#959595</color>
+
+
+    <!-- Hue Colors   -->
+    <color name="hue_yellow">#fff300</color>
+    <color name="hue_gold">#f9c406</color>
+    <color name="hue_red">#d70101</color>
+    <color name="hue_magenta">#d701c6</color>
+    <color name="hue_violet">#5501d7</color>
+    <color name="hue_blue">#0122d7</color>
+    <color name="hue_sky_blue">#06cef9</color>
+    <color name="hue_green">#10d500</color>
+    <color name="picture_color_aab2bd">#AAB2BD</color>
+
+
+    <color name="picture_color_70">#70000000</color>
+    <color name="picture_color_80">#80000000</color>
+    <color name="picture_color_20">#20000000</color>
+    <color name="picture_color_light_grey">#999999</color>
+    <color name="picture_color_ba3">#b0567ba3</color>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="picture_error">The picture is corrupted</string>
+    <string name="picture_video_error">The video is corrupted</string>
+    <string name="picture_audio_error">The audio is corrupted</string>
+    <string name="picture_message_max_num">Select up to %1$s images</string>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_blue_crop.xml" value="0.22037037037037038" />
+        <entry key="app/src/main/res/drawable-v24/ic_image_multi_select_disabled.xml" value="0.22037037037037038" />
+        <entry key="app/src/main/res/drawable-v24/ic_notifications_toolbar_back.xml" value="0.22037037037037038" />
+        <entry key="app/src/main/res/drawable/drawable_image_selector.xml" value="0.21574074074074073" />
+        <entry key="app/src/main/res/drawable/ic_blue_arrow.xml" value="0.22037037037037038" />
+        <entry key="app/src/main/res/drawable/ic_image_multi_select_disabled.xml" value="0.22037037037037038" />
+        <entry key="app/src/main/res/drawable/ic_notifications_toolbar_back.xml" value="0.22037037037037038" />
+        <entry key="app/src/main/res/drawable/picture_checkbox_selector.xml" value="0.21574074074074073" />
+        <entry key="app/src/main/res/drawable/picture_num_oval.xml" value="0.21574074074074073" />
+        <entry key="app/src/main/res/drawable/picture_orange_oval.xml" value="0.21574074074074073" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15204678362573099" />
+        <entry key="app/src/main/res/layout/instagram_image_grid_item.xml" value="0.21333333333333335" />
+        <entry key="app/src/main/res/layout/layout_toolbar.xml" value="0.21666666666666667" />
+        <entry key="ucrop/src/main/res/layout/ucrop_activity_photobox.xml" value="0.21666666666666667" />
+        <entry key="ucrop/src/main/res/layout/ucrop_aspect_ratio.xml" value="0.21666666666666667" />
+        <entry key="ucrop/src/main/res/layout/ucrop_controls.xml" value="0.21666666666666667" />
+        <entry key="ucrop/src/main/res/layout/ucrop_layout_rotate_wheel.xml" value="0.21666666666666667" />
+        <entry key="ucrop/src/main/res/layout/ucrop_layout_scale_wheel.xml" value="0.21666666666666667" />
+        <entry key="ucrop/src/main/res/layout/ucrop_view.xml" value="0.21666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
